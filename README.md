@@ -1,0 +1,1 @@
+# Dto-And-JpaQueryProjection-Demo
